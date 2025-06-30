@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gfolio/static/css/main.d68b03d4.chunk.css",
-    "main.js": "/gfolio/static/js/main.05d57ac8.chunk.js",
-    "main.js.map": "/gfolio/static/js/main.05d57ac8.chunk.js.map",
+    "main.js": "/gfolio/static/js/main.f6f7f7fe.chunk.js",
+    "main.js.map": "/gfolio/static/js/main.f6f7f7fe.chunk.js.map",
     "runtime-main.js": "/gfolio/static/js/runtime-main.e34de959.js",
     "runtime-main.js.map": "/gfolio/static/js/runtime-main.e34de959.js.map",
-    "static/js/2.38bcff5b.chunk.js": "/gfolio/static/js/2.38bcff5b.chunk.js",
-    "static/js/2.38bcff5b.chunk.js.map": "/gfolio/static/js/2.38bcff5b.chunk.js.map",
+    "static/js/2.10d4a58a.chunk.js": "/gfolio/static/js/2.10d4a58a.chunk.js",
+    "static/js/2.10d4a58a.chunk.js.map": "/gfolio/static/js/2.10d4a58a.chunk.js.map",
     "index.html": "/gfolio/index.html",
     "static/css/main.d68b03d4.chunk.css.map": "/gfolio/static/css/main.d68b03d4.chunk.css.map",
-    "static/js/2.38bcff5b.chunk.js.LICENSE.txt": "/gfolio/static/js/2.38bcff5b.chunk.js.LICENSE.txt",
+    "static/js/2.10d4a58a.chunk.js.LICENSE.txt": "/gfolio/static/js/2.10d4a58a.chunk.js.LICENSE.txt",
     "static/media/CryptographyVisualizer.873e9d90.png": "/gfolio/static/media/CryptographyVisualizer.873e9d90.png",
     "static/media/blobby.6b3f6eb6.png": "/gfolio/static/media/blobby.6b3f6eb6.png",
     "static/media/distance-two-locations.386e1a9c.jpg": "/gfolio/static/media/distance-two-locations.386e1a9c.jpg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e34de959.js",
-    "static/js/2.38bcff5b.chunk.js",
+    "static/js/2.10d4a58a.chunk.js",
     "static/css/main.d68b03d4.chunk.css",
-    "static/js/main.05d57ac8.chunk.js"
+    "static/js/main.f6f7f7fe.chunk.js"
   ]
 }
