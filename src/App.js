@@ -1,13 +1,7 @@
 import "./styles.css";
 import "./search.css";
 import React, { Component } from "react";
-import {
-  BrowserRouter as Router,
-  Route,
-  Switch,
-  Link,
-  Redirect
-} from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import about from "./pages/about";
 import works from "./pages/works";
 import Home from "./pages/home";
