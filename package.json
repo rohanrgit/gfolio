@@ -1,4 +1,5 @@
 {
+  "homepage": "https://rohanrgit.github.io/gfolio",
   "name": "gfolio",
   "version": "1.0.0",
   "description": "Personal website simulating Google Search interface, developed with React",
