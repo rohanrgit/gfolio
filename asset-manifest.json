@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/gfolio/static/css/main.d68b03d4.chunk.css",
+    "main.js": "/gfolio/static/js/main.05d57ac8.chunk.js",
+    "main.js.map": "/gfolio/static/js/main.05d57ac8.chunk.js.map",
+    "runtime-main.js": "/gfolio/static/js/runtime-main.e34de959.js",
+    "runtime-main.js.map": "/gfolio/static/js/runtime-main.e34de959.js.map",
+    "static/js/2.38bcff5b.chunk.js": "/gfolio/static/js/2.38bcff5b.chunk.js",
+    "static/js/2.38bcff5b.chunk.js.map": "/gfolio/static/js/2.38bcff5b.chunk.js.map",
+    "index.html": "/gfolio/index.html",
+    "static/css/main.d68b03d4.chunk.css.map": "/gfolio/static/css/main.d68b03d4.chunk.css.map",
+    "static/js/2.38bcff5b.chunk.js.LICENSE.txt": "/gfolio/static/js/2.38bcff5b.chunk.js.LICENSE.txt",
+    "static/media/CryptographyVisualizer.873e9d90.png": "/gfolio/static/media/CryptographyVisualizer.873e9d90.png",
+    "static/media/blobby.6b3f6eb6.png": "/gfolio/static/media/blobby.6b3f6eb6.png",
+    "static/media/distance-two-locations.386e1a9c.jpg": "/gfolio/static/media/distance-two-locations.386e1a9c.jpg",
+    "static/media/geo-guess.21a94994.png": "/gfolio/static/media/geo-guess.21a94994.png",
+    "static/media/geolocation-api.a10d8bed.jpg": "/gfolio/static/media/geolocation-api.a10d8bed.jpg",
+    "static/media/gfolio.4b968882.png": "/gfolio/static/media/gfolio.4b968882.png",
+    "static/media/info.df517275.png": "/gfolio/static/media/info.df517275.png",
+    "static/media/jpg2svg.e3e3744c.png": "/gfolio/static/media/jpg2svg.e3e3744c.png",
+    "static/media/libre-logos.6f766b7c.svg": "/gfolio/static/media/libre-logos.6f766b7c.svg",
+    "static/media/linkedIn-icon.68ac41e1.png": "/gfolio/static/media/linkedIn-icon.68ac41e1.png",
+    "static/media/suitcase.e14b0bb3.png": "/gfolio/static/media/suitcase.e14b0bb3.png",
+    "static/media/svg-advantages-and-disadvantages.22116676.jpg": "/gfolio/static/media/svg-advantages-and-disadvantages.22116676.jpg",
+    "static/media/tutcode.ec4d5511.png": "/gfolio/static/media/tutcode.ec4d5511.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e34de959.js",
+    "static/js/2.38bcff5b.chunk.js",
+    "static/css/main.d68b03d4.chunk.css",
+    "static/js/main.05d57ac8.chunk.js"
+  ]
+}
